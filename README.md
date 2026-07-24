@@ -474,5 +474,3 @@ It motivates me to continue creating high-quality learning resources.
 ## 🚀 Happy Learning • Happy Coding • Keep Building
 
 Made with ❤️ by **Gaurav Kumar**
-
-</div>
